@@ -3,4 +3,4 @@
 The images in the project are copyrighted, and all rights are reserved to the [Tesco]([https://www.audible.co.uk/])
 <br>
 
-![Preview1](https://github.com/bemywang/Product-Scanner/blob/main/preview1.gif)
+![Preview1](https://github.com/bemywang/Product-Scanner/blob/main/preview.gif)
